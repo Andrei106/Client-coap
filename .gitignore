@@ -1,0 +1,5 @@
+client/venv/
+client/__pycache__/
+client/**/__pycache__/
+client/.idea/
+.idea/

@@ -1,0 +1,121 @@
+{
+	"f1": {
+		"e1": {
+			"name": "Folder 1",
+			"type": "folder",
+			"size": "",
+			"path": "\\",
+			"children": {
+				"name": "Folder 2",
+				"type": "folder",
+				"size": "",
+				"path": "folder 1",
+				"children": {
+					"e2": {
+					"name": "File 2",
+					"type": "file",
+					"size": "50",
+					"path": "Folder 1\\Folder 2",
+					"children": ""
+					},
+					"e3": {
+					"name": "Folder 122",
+					"type": "folder",
+					"size": "",
+					"path": "Folder 1\\Folder 2",
+					"children":  {
+						"e222": {
+						"name": "File 2",
+						"type": "file",
+						"size": "50",
+						"path": "Folder 1\\Folder 2\\Folder 122",
+						"children": ""
+							},
+						"e333": {
+						"name": "File 122",
+						"type": "file",
+						"size": "50",
+						"path": "Folder 1\\Folder 2\\Folder 122",
+						"children": ""
+							}
+						}
+					}
+				}
+			}
+		},
+		"e4": {
+			"name": "Folder 11",
+			"type": "folder",
+			"size": "",
+			"path": "\\",
+			"children": {
+				"name": "Folder 22",
+				"type": "folder",
+				"size": "",
+				"path": "Folder 11",
+				"children": {
+					"name": "File 22",
+					"type": "file",
+					"size": "50",
+					"path": "Folder 11\\Folder 22",
+					"children": ""
+				}
+			}
+		}
+	},
+	"f2": {
+		"e1": {
+			"name": "Folder 3",
+			"type": "folder",
+			"size": "",
+			"path": "\\",
+			"children": {
+				"name": "Folder 4",
+				"type": "folder",
+				"size": "",
+				"path": "Folder 3",
+				"children": {
+					"name": "File 5",
+					"type": "file",
+					"size": "20",
+					"path": "Folder 3\\Folder 4",
+					"children": ""
+				}
+			}
+		},
+		"e2": {
+			"name": "Folder 5",
+			"type": "folder",
+			"size": "",
+			"path": "\\",
+			"children": {
+				"name": "Folder 6",
+				"type": "folder",
+				"size": "",
+				"path": "Folder 5",
+				"children": {
+					"name": "Folder 7",
+					"type": "folder",
+					"size": "20",
+					"path": "Folder 5\\Folder 6",
+					"children":  {
+						"e222": {
+						"name": "File 2",
+						"type": "file",
+						"size": "50",
+						"path": "Folder 5\\Folder 6\\Folder 7",
+						"children": ""
+							},
+						"e333": {
+						"name": "File 122",
+						"type": "file",
+						"size": "50",
+						"path": "Folder 5\\Folder 6\\Folder 7",
+						"children": ""
+							}
+						}
+				}
+			}
+		}
+	}
+}
